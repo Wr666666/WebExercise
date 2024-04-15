@@ -1,0 +1,31 @@
+body{
+  color: black;
+}
+
+p{
+  color: red;
+}
+
+h1,h2{
+  font-weight: 600;
+}
+h2{
+  font-weight: 200;
+}
+
+.cname{
+  color: blueviolet;
+}
+#iname{
+  color: aqua;
+}
+
+p h1{
+  color: chartreuse;
+}
+body h1{
+  color: pink;
+}
+h1{
+  color: darkgoldenrod;
+}
